@@ -2,7 +2,7 @@
 
 I m a Third Year Electronics Undergrad at MNNIT and a Flutter Dev.
 
-<img align="right" alt="GIF" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none" width="400" height="400" />
+<img align="right" src="image.png" width="400" height="400" />
 
 ## ⚙️ Skills :
 - <b>Languages :</b>  <code>C++</code>, <code>C</code>, <code>Java</code>, `Dart`
