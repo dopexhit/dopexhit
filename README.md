@@ -28,7 +28,7 @@ I m a Third Year Electronics Undergrad at MNNIT.
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me :
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mayank-bhola/"><img src="https://img.shields.io/badge/-Mayank%20Bhola%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
