@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> Hi, I'm Mayank Bhola</h1>
 
-I m a Third Year Electronics Undergrad at MNNIT and a Flutter Dev.
+I m a Third Year Electronics Undergrad at MNNIT.
 
 <img align="right" src="image.png" width="450" height="400" />
 
